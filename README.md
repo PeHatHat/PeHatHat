@@ -51,4 +51,4 @@ Hiện tại, tôi đang tập trung vào việc học tập và phát triển c
 
 ## Lời cảm ơn
 
-Lời đầu tiên, tôi xin gửi lời cảm ơn chân thành đến gia đình và bạn bè đã luôn ủng hộ tôi trong suốt thời gian qua. Cảm ơn những người thầy cô đã dìu dắt và truyền đạt kiến thức cho tôi. Cảm ơn các anh/chị/bạn trong Câu lạc bộ Lập trình UTC đã giúp đỡ tôi rất nhiều trong quá trình học tập và rèn luyện. Tôi sẽ tiếp tục cố gắng và phát triển bản thân hơn nữa trong tương lai.
+Lời đầu tiên, tôi xin gửi lời cảm ơn chân thành đến gia đình và bạn bè đã luôn ủng hộ tôi trong suốt thời gian qua. Cảm ơn những người thầy cô đã dìu dắt và truyền đạt kiến thức cho tôi. Tôi sẽ tiếp tục cố gắng và phát triển bản thân hơn nữa trong tương lai.
