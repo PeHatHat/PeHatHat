@@ -38,27 +38,8 @@ Hiện tại, tôi đang tập trung vào việc học tập và phát triển c
 
 * **Đại học Giao thông Vận tải (2023-2027)**
     * Chuyên ngành: Khoa học Máy tính
-    * GPA: 3.5/4.0 
 
 ## Dự án
-
-*   **Website Quản Lý Thư Viện (C++)**
-    *   Mô tả: Xây dựng website giúp quản lý sách, độc giả và việc mượn trả sách.
-    *   Tính năng:
-        *   Thêm, xóa, sửa thông tin sách, độc giả.
-        *   Quản lý việc mượn trả sách.
-        *   Tìm kiếm sách, độc giả.
-    *   Công nghệ: C++
-    *   [Liên kết đến GitHub (nếu có)](https://github.com/PeHatHat/QuanLyThuVien)
-
-*   **Game Cờ Caro (C++)**
-    *   Mô tả: Phát triển game cờ caro cho phép hai người chơi thi đấu với nhau.
-    *   Tính năng:
-        *   Chế độ chơi với máy (nếu có).
-        *   Giao diện đồ họa (nếu có).
-        *   Lưu và tải game.
-    *   Công nghệ: C++
-    *   [Liên kết đến GitHub (nếu có)](https://github.com/PeHatHat/CoCaro)
 
 ## 🔗 Liên hệ
 
