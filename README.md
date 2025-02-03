@@ -12,7 +12,7 @@
 
 😄 Cứ gọi tôi là Hoàng nhé
 
-⚡ Sự thật thú vị: Tôi cao 1m80 😄
+⚡ Sự thật thú vị: Tôi cao 1m76 + 4 😄
 
 ## Kỹ năng
 
