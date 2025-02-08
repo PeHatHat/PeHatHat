@@ -16,8 +16,8 @@
 
 ## Kỹ năng
 
-* **Ngôn ngữ lập trình:** C++, Python
-* **Công cụ:** Git, Docker, VS Code
+* **Ngôn ngữ lập trình:** C++
+* **Công cụ:** Git, Docker
 * **Framework:** 
 * **Kỹ năng mềm:**
     *  🗣️ Giao tiếp
